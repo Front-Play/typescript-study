@@ -8,7 +8,7 @@
 
 ## 💁🏻‍♂️ 인원
 
-| [🏠](https://github.com/Nayeon97) | [🏠](https://github.com/Jeong-jj) | 🏠   | [🏠](https://github.com/y00eunji) |
+| [🏠](https://github.com/Nayeon97) | [🏠](https://github.com/Jeong-jj) | [🏠](https://github.com/userJu)   | [🏠](https://github.com/y00eunji) |
 | --------------------------------- | --------------------------------- | ---- | --------------------------------- |
 | 나연                              | 정준                              | 주현 | 은지                              |
 
