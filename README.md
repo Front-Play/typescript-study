@@ -8,11 +8,46 @@
 
 ## 💁🏻‍♂️ 인원
 
-| [🏠](https://github.com/Nayeon97) | [🏠](https://github.com/Jeong-jj) | [🏠](https://github.com/userJu)   | [🏠](https://github.com/y00eunji) |
-| --------------------------------- | --------------------------------- | ---- | --------------------------------- |
-| 나연                              | 정준                              | 주현 | 은지                              |
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Nayeon97">
+        <img src="https://avatars.githubusercontent.com/Nayeon97" width="100px;" alt="" /><br/>
+      </a>
+      <sub>
+        <b>나연</b>
+      </sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Jeong-jj">
+        <img src="https://avatars.githubusercontent.com/Jeong-jj" width="100px;" alt="" /><br/>
+      </a>
+        <sub>
+          <b>정준</b>
+        </sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/y00eunji">
+        <img src="https://avatars.githubusercontent.com/y00eunji" width="100px;" alt="" /><br/>
+      </a>
+        <sub>
+          <b>은지</b>
+        </sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/userJu">
+        <img src="https://avatars.githubusercontent.com/userJu" width="100px;" alt="" /><br/>
+      </a>
+        <sub>
+          <b>주현</b>
+        </sub>
+    </td>
+  </tr>
+</table>
 
-## ⚙️ 진행형식
+<br/>
+
+## ⚙️ 진행방식
 
 - 전체 15챕터 중 1장을 제외한 14챕터만 진행.
 - 1인당 1챕터를 읽고 정리하여 발표.
@@ -25,7 +60,7 @@
 
 > PR 전에 꼭 pull 체크!
 
-&nbsp;
+<br/>
 
 ### commit 컨벤션
 
@@ -55,7 +90,7 @@
 - ex) `[홍길동] OOO의 종류와 이해`
 - PR의 내용은 자율적으로 작성
 
-&nbsp;
+<br/>
 
 ## 🏁 목차
 
@@ -77,13 +112,16 @@
 | 15.1 - 15.2 타입 운영       |      `정준님`    |
 | 15.3 - 15.5 타입 운영         |       `주현님`    |
 
+<br/>
+
 ## 🗓 스터디 일정
 
 ☑️ 2/15 : 앞으로 스터디 진행방향에 대한 회의  
-☑️ 2/21 : `ch2`/ `ch3` 정준님, 주현님 발표 (9시)    
-☑️ 2/28 : `ch4`/ `ch5` 나연님, 은지님 발표 (9시)   
-☑️ 3/7 : `ch6`/ `ch7` 정준님, 주현님 발표 (9시)   
+☑️ 2/21 : `ch2`/ `ch3` 정준님, 주현님 발표 (9시)  
+☑️ 2/28 : `ch4`/ `ch5` 나연님, 은지님 발표 (9시)  
+☑️ 3/7 : `ch6`/ `ch7` 정준님, 주현님 발표 (9시)  
 ☑️ 3/14 : `ch8`/ `ch9` 나연님, 은지님 발표 (9시)  
-☑️ 3/21 : `ch10` 정준님, 주현님 발표 (9시)   
-☑️ 3/28 : `ch12` / `ch13` 다같이 (9시)
-
+☑️ 3/21 : `ch10` 정준님, 주현님 발표 (9시)  
+☑️ 3/28 : `ch12` / `ch13` 다같이 (9시)  
+☑️ 4/4 : `ch14` 나연님, 은지님 발표 (9시)  
+☑️ 4/11 : `ch15` 정준님, 주현님 발표 (9시)
